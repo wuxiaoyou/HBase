@@ -1,4 +1,4 @@
-# HBase的几个案例
+# HBase的几个案例数据
 1. 过滤器的使用
 /src/com/xizhishi/hbase/filter/
 2. 分页的实现
